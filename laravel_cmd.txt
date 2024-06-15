@@ -1,2 +1,11 @@
 サーバ立ち上げ
 php artisan serve
+Starting Laravel development serve: http://127.0.0.1:8000
+
+キャッシュをクリア
+環境に反映されない時に使うコマンド
+php artisan config:clear
+
+laravel site 参考
+https://readouble.com/ 
+
