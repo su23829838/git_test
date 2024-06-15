@@ -9,3 +9,9 @@ php artisan config:clear
 laravel site 参考
 https://readouble.com/ 
 
+laravel 9 から
+webpack => vite 
+
+udemy 講座
+参考リポジトリ
+https://github.com/aokitashipro/laravel_umarche
