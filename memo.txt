@@ -29,3 +29,6 @@ owner  商品を登録
 user 商品を買う
 admin オーナの管理
 
+Middleware/Authenticate をもう一回見たほうがいいかも
+
+laravel 構成概念 ファサード
