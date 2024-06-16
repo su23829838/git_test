@@ -21,11 +21,11 @@ use App\Http\Controllers\Admin\Auth\VerifyEmailController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('admin.welcome');
 });
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    return view('admin.dashboard');
 })->middleware(['auth:admin'])->name('dashboard');
 
 // require __DIR__.'/auth.php';
