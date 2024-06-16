@@ -1,0 +1,8 @@
+qiita laravel 開発サイト
+https://qiita.com/2m1tsu3/items/6d49374230afab251337
+
+reaDouble 超大事
+https://readouble.com/
+
+mysql の初期設定など
+https://yaba-blog.com/laravel-db/

@@ -1,0 +1,26 @@
+
+
+^---mysql-----------------------
+
+show full tables;
+普通にxampp から再起動してもいいかも
+mysql.server start --skip-grant-tables
+mysql -uroot
+
+create database db_name_you_wantto_set;
+show databases;
+USE db_name
+
+
+10-----php db操作------------------------------------
+php artisan migrate 
+この辺りはrails と一緒
+
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel_sample
+DB_USERNAME=root
+DB_PASSWORD=secret
+
+php artisan migrate:refresh
