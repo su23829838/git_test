@@ -32,3 +32,4 @@ admin オーナの管理
 Middleware/Authenticate をもう一回見たほうがいいかも
 
 laravel 構成概念 ファサード
+

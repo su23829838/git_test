@@ -6,3 +6,6 @@ https://readouble.com/
 
 mysql の初期設定など
 https://yaba-blog.com/laravel-db/
+
+要件定義、システム設計ができる人材になれる
+https://qiita.com/Saku731/items/741fcf0f40dd989ee4f8
